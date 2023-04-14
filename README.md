@@ -135,7 +135,7 @@ git switch -c add-alonzo-church
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Now open `Contributors.md` file in a text editor by navigating to your local hard drive (by default the repository should be located at **C:\Users\<name>\first-contributions**). You can open `Contributors.md` through various text editors such as VSCode, Sublime, Atom, etc. Once opened, add your name to it... etc.Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
